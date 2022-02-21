@@ -6,3 +6,16 @@ Whether or not you like football, the Super Bowl is a spectacle. There's a littl
 - How does the game affect television viewership?
 - How have viewership, TV ratings, and ad cost evolved over time?
 - Who are the most prolific musicians in terms of halftime show performances?
+
+## Project Tasks
+
+1. TV, halftime shows, and the Big Game
+2. Taking note of dataset issues
+3. Combined points distribution
+4. Point difference distribution
+5. Do blowouts translate to lost viewers?
+6. Viewership and the ad industry over time
+7. Halftime shows weren't always this great
+8. Who has the most halftime show appearances?
+9. Who performed the most songs in a halftime show?
+10. Conclusion
